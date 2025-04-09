@@ -7,6 +7,7 @@
 
 NoteSage allows you to chat with your documents using custom models. It is designed to be self-hosted, giving you full control over your data and models.
 
+Demo: Accelerating Code Modernization - Path Forward: Assisting Legacy Code Migration
 ![creatnotebook](/images/creatnotebook.png)
 ![Choise languages programming](/images/Choise-langue-programming.png)
 ![Calling AI for Analysis](/images/processing.png)
@@ -14,6 +15,16 @@ NoteSage allows you to chat with your documents using custom models. It is desig
 ![Quesition for Ai](/images/fa632c7c-2926-4a21-be96-f9ce9ceb0610.png)
 ![Answer of AI](/images/1e2a1e32-2616-41f6-9c15-769584aaf42a.png)
 
+Demo: Finding Answers in the Knowledge Maze - Path Forward: Instant Insights from All Your Docs
+
+Upload your documents and ask questions directly. NoteSage processes the information and provides relevant answers, helping you quickly find the insights you need.
+
+*   **Ask your question:** Interact with the chat interface.
+    ![User asking a question in NoteSage chat](/images/Screenshot%20from%202025-04-09%2012-02-51.png)
+*   **Get instant insights:** The AI analyzes the documents and formulates a response.
+    ![AI generating an answer in NoteSage](/images/Screenshot%20from%202025-04-09%2012-04-44.png)
+*   **Receive your answer:** View the summarized information extracted from your sources.
+    ![AI providing the final answer in NoteSage](/images/Screenshot%20from%202025-04-09%2012-07-10.png)
 
 
 ## How can I edit this code?
