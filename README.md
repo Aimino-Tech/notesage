@@ -19,12 +19,11 @@ Demo: Finding Answers in the Knowledge Maze - Path Forward: Instant Insights fro
 
 Upload your documents and ask questions directly. NoteSage processes the information and provides relevant answers, helping you quickly find the insights you need.
 
-*   **Ask your question:** Interact with the chat interface.
-    ![User asking a question in NoteSage chat](/images/Screenshot%20from%202025-04-09%2012-02-51.png)
-*   **Get instant insights:** The AI analyzes the documents and formulates a response.
-    ![AI generating an answer in NoteSage](/images/Screenshot%20from%202025-04-09%2012-04-44.png)
-*   **Receive your answer:** View the summarized information extracted from your sources.
-    ![AI providing the final answer in NoteSage](/images/Screenshot%20from%202025-04-09%2012-07-10.png)
+<p align="center">
+  <img src="/images/Screenshot%20from%202025-04-09%2012-02-51.png" alt="User asking a question in NoteSage chat" width="30%">
+  <img src="/images/Screenshot%20from%202025-04-09%2012-04-44.png" alt="AI generating an answer in NoteSage" width="30%">
+  <img src="/images/Screenshot%20from%202025-04-09%2012-07-10.png" alt="AI providing the final answer in NoteSage" width="30%">
+</p>
 
 
 ## How can I edit this code?
