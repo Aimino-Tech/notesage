@@ -1,0 +1,9 @@
+node_modules
+node_modules/*
+dist
+dist/*
+.qodo
+n8n
+dist/index.html
+dist
+dist/index.html

@@ -1,0 +1,55 @@
+.pdf-viewer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.pdf-container {
+  flex: 1;
+  overflow: auto;
+  position: relative;
+  background: var(--secondary);
+  min-height: 0;
+}
+
+.text-layer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  opacity: 0.2;
+  line-height: 1.0;
+  user-select: text;
+}
+
+.text-layer > span {
+  color: transparent;
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+  transform-origin: 0% 0%;
+}
+
+.text-layer .highlight {
+  margin: -1px;
+  padding: 1px;
+  background-color: rgb(180, 0, 170);
+  border-radius: 4px;
+  opacity: 0.4;
+  animation: highlight-flash 1.5s ease-in-out;
+}
+
+@keyframes highlight-flash {
+  0% { opacity: 1; }
+  50% { opacity: 0.75; }
+  100% { opacity: 0.4; }
+}
+
+.text-layer::selection {
+  background: rgb(0, 0, 255);
+  opacity: 0.2;
+}
