@@ -7,6 +7,15 @@
 
 NoteSage allows you to chat with your documents using custom models. It is designed to be self-hosted, giving you full control over your data and models.
 
+![creatnotebook](/images/creatnotebook.png)
+![Choise languages programming](/images/Choise-langue-programming.png)
+![Calling AI for Analysis](/images/processing.png)
+![A Python-Trading-Bot-main repository in a cloud coding environment, likely for automating trades using market data and strategies.](/images/326dc260-7124-48e8-bf53-efbbecc24392.png)
+![Quesition for Ai](/images/fa632c7c-2926-4a21-be96-f9ce9ceb0610.png)
+![Answer of AI](/images/1e2a1e32-2616-41f6-9c15-769584aaf42a.png)
+
+
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
