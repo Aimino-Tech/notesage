@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [\[YOUR_PROJECT_URL_HERE\]](https://github.com/Aimino-Tech/notesage)
+**URL**: [\[NoteSage Github\]](https://github.com/Aimino-Tech/notesage)
 
 NoteSage allows you to chat with your documents using custom models. It is designed to be self-hosted, giving you full control over your data and models.
 
